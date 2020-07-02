@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font-size: 70px;
+    font-weight: bold;
+    color: #EC4C7A;
+    margin: 0;
+    padding: 0;
+}
+
+h4,h5 {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    color: gray;
+}
+
+section {
+    height: 500px;
+    padding-bottom: 200px;
+}
+
+.top-banner {
+    background-image: url("images/header-bg.png");
+    background-position: center;
+}
+
+.biography-area {
+    background-image: url("images/biography-bg.png");
+    background-position: center;
+}
+
+.work-gallary{
+    background-image: url("images/latest-work-bg.png");
+    background-position: center;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.banner-left {
+    padding-top: 13%;
+}
+
+.banner-left p {
+    margin-bottom: 20px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(180deg, #EC5196, #EC4B74);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.bio-right {
+    padding-top: 15%;
+}
+
+.bio-right p {
+    text-align: justify;
+}
+
+.work {
+    padding: 7% 3% 0 3%;
+}
+
+.work-gallary {
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+.work-gallary h2 {
+    text-align: center;
+}
+
+.work-item {
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+
+.work-item img {
+    width: 100%;
+}
+
+.client-comment {
+    text-align: center;
+}
+
+.client-comment p {
+    color: black;
+}
+
+.client-comment h4 {
+    font-size: 20px;
+}
+
+.client-comment h5 {
+    font-size: 14px;
+    color: gray;
+}
+
+.client-comment h2 {
+    margin-bottom: 70px;
+}
+
+.client-comment p {
+    margin-top: 40px;
+}
+
+.mail {
+    height: 120px;
+    width: 700px;
+    background-image: linear-gradient(180deg, #EC5196, #EC4B74);
+    margin: 0 auto;
+    border-radius: 10px;
+    padding-top: 50px;
+    margin-top: 70px;
+}
+
+.mail p {
+    margin: 0;
+    padding: 0;
+    color: white;
+    margin-top: ;
+}
+
+.mail-text {
+    font-size: 22px;
+    font-weight: 400;
+    margin: 0;
+}
+
+footer p {
+    text-align: center;
+    font-size: 15px;
+}
+
+footer {
+    background-image: url("images/footer-bg.png");
+    background-position: center;
+}
+
+
+
